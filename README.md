@@ -2,7 +2,7 @@
 
 Submitted by: **Sojal Thapa**
 
-**Name of your app** is an app that ... [TODO] 
+**Trivia app** is an app that takes question from the api and displays the questions.
 
 Time spent: **15** hours spent in total
 
